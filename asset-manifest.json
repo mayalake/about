@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/about/static/css/main.073c9b0a.css",
-    "main.js": "/about/static/js/main.37510c2f.js",
+    "main.css": "/about/static/css/main.5444b8f0.css",
+    "main.js": "/about/static/js/main.2dd65644.js",
     "static/js/787.28cb0dcd.chunk.js": "/about/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/about/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/background.jpg": "/about/static/media/background.bded35f8c36e7a59536c.jpg",
+    "static/media/headshot.jpg": "/about/static/media/headshot.acd37a48ea2bc89915ab.jpg",
+    "static/media/Maya_Lake_Resume.pdf": "/about/static/media/Maya_Lake_Resume.8e43685fc76c290ca078.pdf",
+    "static/media/resume.png": "/about/static/media/resume.ec377492f254fb06914d.png",
+    "static/media/email_icon.png": "/about/static/media/email_icon.81e078a88ba19af42884.png",
+    "static/media/linkedin_icon.png": "/about/static/media/linkedin_icon.d8d6217de4085b0987d7.png",
     "index.html": "/about/index.html",
-    "main.073c9b0a.css.map": "/about/static/css/main.073c9b0a.css.map",
-    "main.37510c2f.js.map": "/about/static/js/main.37510c2f.js.map",
+    "main.5444b8f0.css.map": "/about/static/css/main.5444b8f0.css.map",
+    "main.2dd65644.js.map": "/about/static/js/main.2dd65644.js.map",
     "787.28cb0dcd.chunk.js.map": "/about/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.37510c2f.js"
+    "static/css/main.5444b8f0.css",
+    "static/js/main.2dd65644.js"
   ]
 }
