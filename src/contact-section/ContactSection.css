@@ -1,0 +1,18 @@
+.FirstTextElement{
+	margin-top: 0;
+}
+
+/*tablet and desktop*/
+@media (min-width:768px) {
+	.ContactText{
+		vertical-align: top;
+		display: inline-block;
+		width: 50%;
+	}
+
+	.ContactLinks{
+    		vertical-align: top;
+    		display: inline-block;
+    		width: 50%;
+	}
+}

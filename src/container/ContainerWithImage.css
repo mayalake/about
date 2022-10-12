@@ -1,0 +1,29 @@
+.ContentContainer{
+	width:100%;
+}
+
+.isCircleImage{
+	border-radius: 50%;
+}
+
+/*mobile*/
+.ImageContainer{
+	  display: block;
+      margin: 10% auto;
+      width: 50%;
+}
+
+/*tablet and desktop*/
+@media (min-width:768px) {
+	.ImageContainer{
+		display: inline-block;
+		vertical-align: top;
+		width: 20%;
+		margin: 0 5% 0 0;
+	}
+
+	.ContentNextToImage{
+		display: inline-block;
+		width: 70%;
+	}
+}
